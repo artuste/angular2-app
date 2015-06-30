@@ -19,7 +19,7 @@ var angular2_1 = require('angular2/angular2');
  */
 var MyAppComponent = (function () {
     function MyAppComponent() {
-        this.name = 'Alice23a';
+        this.name = 'Alice';
     }
     MyAppComponent = __decorate([
         angular2_1.Component({
