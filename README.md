@@ -1,4 +1,4 @@
-# AngularJS 2 App
+# AngularJS 2 Application
 
 <pre>$ npm install -g tsd@^0.6.0</pre>
 <pre>$ tsd install angular2 es6-promise rx rx-lite</pre>
